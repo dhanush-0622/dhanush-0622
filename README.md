@@ -84,7 +84,8 @@
 <div class="container">
     <section id="about">
         <h2>About Me</h2>
-        <p>I'm a <strong>cyber security</strong> 2 years computer science</p>
+        <p><strong>student</strong> 
+        </p>
     </section>
 
    <section id="education">
